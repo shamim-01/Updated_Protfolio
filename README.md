@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 ## 🚀 Live Preview
 👉 Add your live portfolio link here  
-`https://your-live-link.com`
+`(https://updated-protfolio-theta.vercel.app/)`
 
 ---
 
