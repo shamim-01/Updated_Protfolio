@@ -2,11 +2,12 @@
 
 A modern and responsive personal portfolio website built to showcase my skills, education, projects, and contact information as a **Frontend Developer with Data Analysis skills**.
 
-## 🚀 Live Preview
-👉 Add your live portfolio link here  
-`(https://updated-protfolio-theta.vercel.app/)`
+## 🚀 Live Preview  
+👉 <a href="(https://updated-protfolio-theta.vercel.app/)" target="_blank">
+  🔗 Click to View Live Portfolio
+</a>
 
----
+--
 
 ## 📌 About This Project
 
