@@ -4,10 +4,10 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 ## 🚀 Live Preview  
 👉 <a href="https://updated-protfolio-theta.vercel.app/" target="_blank">
-  🔗 Click to View Live Portfolio
+  🔗 Click to View Live 
 </a>
 
---
+---
 
 ## 📌 About This Project
 
